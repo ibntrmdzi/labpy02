@@ -11,4 +11,4 @@ Mata kuliah : Bahasa Pemograman  <p>
 ![gambar 2](foto1.png)
 
 ### Hasil eksekusi program
-![gambar 3](foto3.jpeg)
+![gambar 3](foto3.png)
